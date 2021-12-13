@@ -41,3 +41,9 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
+$ npm i @nestjs/typeorm pg @nestjs/config
+$ npm i typeorm
+$ nest g mo feed
+$ nest g co feed/controllers/feed --flat --no-spec 
+$ nest g s feed/services/feed --flat --no-spec
+
