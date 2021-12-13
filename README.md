@@ -37,12 +37,15 @@ $ npm install
 ```bash
 # development
 $ npm run start
+$ yarn starrt:dev
 
 # watch mode
 $ npm run start:dev
 
 $ npm i @nestjs/typeorm pg @nestjs/config
+$ yarn add @nestjs/typeorm pg @nestjs/config
 $ npm i typeorm
+$ yarn add typeorm
 $ nest g mo feed
 $ nest g co feed/controllers/feed --flat --no-spec 
 $ nest g s feed/services/feed --flat --no-spec
