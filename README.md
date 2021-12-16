@@ -42,6 +42,7 @@ $ yarn starrt:dev
 # watch mode
 $ npm run start:dev
 $ npm i @nestjs/config
+$ npm i @nestjs/typeorm
 $ npm i @nestjs/typeorm pg @nestjs/config
 $ yarn add @nestjs/typeorm pg @nestjs/config
 $ npm i typeorm
